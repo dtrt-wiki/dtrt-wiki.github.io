@@ -1,0 +1,45 @@
+---
+title: "Pug: Transactions"
+player: "Pug"
+campaign: "PugBurr"
+unlisted: true
+---
+
+# Pug: Transactions
+
+Money in and out, newest last, with the running balance after each line.
+
+| Type | Transaction | Balance | Notes | Source |
+|---|---|---|---|---|
+| Initial | — | 0 | Woke up in an alley with no money. | 1-1A |
+| Received | +100,000 | 100,000 | Founder's Apartment bedroom safe. Bundle of cash given by Burr to handle. | 6-4B |
+| Paid | −75,000 | 25,000 | Contract payment to the Abyss Hunter Office. | 6-9D |
+| Paid | −10,000 | 15,000 | Room at Diluc's Tavern — one night with two twin beds. | 6-9D |
+| Paid | −2,000 | 13,000 | Breakfast. | 7-1A |
+| Paid | −3,000 | 10,000 | Travel rations. | 7-1A |
+| Received | +8,500 | 18,500 | Reward from Finn. | 7-1B |
+| Received | +100,000 | 118,500 | Manager's safe broken open by Burr, then money given to Pug. | 7-2C |
+| Paid | −500 | 118,000 | Vending machine — grape soda dispensed. 100 + 400 Ahn. | 7-3H |
+| Paid | −3,000 | 115,000 | Paid to Scavengers for returning Burr's equipment. | 7-3I |
+| Paid | −500 | 114,500 | Half-drunk water bottle purchased from a scavenger. | 7-3I |
+| Paid | −3,500 | 111,000 | BBQ beef platters (2 large) and two bottles of water. | 7-5A |
+| Received | +400,000 | 511,000 | Payment from Rune for rescuing them from five Rat Thugs. | 7-5B |
+| Paid | -50,000 | 461,000 | Time Merchant: time multiplication package for Burr. 2x multiplier, 6 hours. | 7-7A |
+| Paid | -1,000 | 460,000 | 1,000 Ahn meal at a local spot before visiting Koller. | 8-1A |
+| Received | +100,000 | 560,000 | Oufi indemnity benefit. Sir Tatum's contract failed; worker's compensation. | 8-1A |
+| Received | +100,000 | 660,000 | Oufi indemnity benefit. Burr gave his to Pug. | 8-1C |
+| Received | +32,000 | 692,000 | Small job performed. | 8-1C |
+| Received | +111,600 | 803,000 | Small jobs over 7 days (deliveries, protection, scavenging). Net income after expenses. | 8-1C |
+| Paid | −160,000 | 643,000 | Income tax on Rune's payment. | 15-1A |
+| Paid | −250,000 | 393,000 | Clinic payment for Burr's treatment (heliapoeisis + fibrous mechanites). | 15-1A |
+| Paid | −59,500 | 333,500 | Clinic payment for Burr's housing and amenities over 7 days. | 15-1A |
+| Paid | −123,500 | 210,000 | Clinic payment for immediate payment surcharge (250,000+59,500)×40%. | 15-1A |
+| Paid | −10,000 | 200,000 | Overnight stay at the BBQ restaurant. | 15-1A |
+| Paid | −5,000 | 195,000 | "Neighborhood watch" donation. | 15-6F |
+| Received | +100,000 | 295,000 | Signing bonus from Lavender for a job well done. | 15-6G |
+| Received | +13,000 | 308,000 | Three wallets looted from alley bodies. 13,000 Ahn total. | 17-1B |
+| Received | +2,000 | 310,000 | Wager won from the ripper doctor after Burr rejected the implants. | 17-2E |
+| Received | +3,200 | 313,200 | Wallet tossed to Pug by Burr. | 17-3A |
+| Paid | −100 | 313,100 | Tipped the doorman at the Stray Dog complex. Burr called it a cheap tip. | 17-6C |
+
+- [Back to Status](/pug/status)

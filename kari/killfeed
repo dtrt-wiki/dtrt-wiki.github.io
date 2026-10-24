@@ -1,0 +1,17 @@
+---
+title: "Kari: Killfeed"
+player: "Kari"
+campaign: "Kari"
+unlisted: true
+---
+
+# Kari: Killfeed
+
+Every kill recorded for Kari, newest last. Each entry keeps the encounter it happened in as a label
+so it can be checked against the record.
+
+| Target | Notes | Source |
+|---|---|---|
+| Pickman | Gutripper. Stabbed and slit throat with scalpel. Body concealed on operating table. | 1-1B |
+
+- [Back to Status](/kari/status)
